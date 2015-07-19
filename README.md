@@ -12,16 +12,19 @@ Set pin mode
 pm <PIN NUM> <MODE>
 
 // Example set pin 6 to OUTPUT
-pm 6 1```
+pm 6 1
+```
 
 Digtal Write
 ```
 dw <PIN NUM> <VALUE>
 // Example set pin 6 to HIGH
-dw 6 1```
+dw 6 1
+```
 
 Analog Write
 ```
 aw <PIN NUM> <VALUE>
 // example set pin 6 to 125
-aw 6 125```
+aw 6 125
+```
