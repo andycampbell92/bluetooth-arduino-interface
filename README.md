@@ -17,7 +17,8 @@ pm 6 1```
 Digtal Write
 ```
 dw <PIN NUM> <VALUE>
-// Example set pin 6 to HIGH```
+// Example set pin 6 to HIGH
+dw 6 1```
 
 Analog Write
 ```
